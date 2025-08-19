@@ -11,7 +11,7 @@ System({
 
 
 System({
-        pattern: "help", 
+        pattern: "pari", 
         fromMe: isPrivate,
         desc: "jarvis-md support", 
         type: "support",
