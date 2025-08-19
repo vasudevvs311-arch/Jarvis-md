@@ -37,7 +37,7 @@ System({
 	const start = new Date().getTime();
 	const ping = await message.send(tiny("*𝆺𝅥 running 𝆺𝅥*"));
 	const end = new Date().getTime();
-	return await ping.edit("*☇ ꜱᴩᷨᴇͦᴇͭᴅ ☁ :* " + (end - start) + " *ᴍꜱ* ");
+	return await ping.edit("*GHOST MD* " + (end - start) + " *ᴍꜱ* ");
 });
 
 System({
